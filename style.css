@@ -343,11 +343,11 @@ h2 {
 
 }
 
-/* Your existing CSS above this point */
 
-/* ============================================
-   RESPONSIVE MEDIA QUERIES
-   ============================================ */
+
+
+   /* RESPONSIVE MEDIA QUERIES */
+  
 
 /* Large Desktop (1200px and up) */
 @media (min-width: 1200px) {
